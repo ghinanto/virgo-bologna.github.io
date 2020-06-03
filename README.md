@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## EIC Canada Collaboration
 
-You can use the [editor on GitHub](https://github.com/eic-canada/eic-canada.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Electron Ion Collider (EIC) is a major new collider facility scheduled to be built on Long Island, New York, by the US Department of Energy in the current decade. At the EIC, polarized electrons will collide with polarized protons, polarized light ions, and heavy nuclei at luminosities far beyond what is currently available. The facility will answer several fundamental questions central to completing an understanding of atoms and integral to the agenda of nuclear physics today.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The EIC project achieved two milestones in 2019-2020 with the site selection of Brookhaven National Lab and the first critical decision (CD-0) establishing mission need. The project aims to complete the next two critical decisions by 2026 and to start operation by 2030. The EIC Users Group is coordinating the international efforts to instrument the two interaction regions of the collider, with Expressions of Interest invited by November 2020.
 
-### Markdown
+Canadian subatomic physicists have participated intensively in the planning of this new facility and have chartered a multi-institutional EIC Canada Collaboration to coordinate participation. We anticipate that the Canadian participation in the first new North American collider in this century will become similar in scope as, e.g., the Canadian participation in the Belle II experiment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Membership
 
-```markdown
-Syntax highlighted code block
+- Mount Allison University: Dave Hornidge
+- University of Manitoba: Wouter Deconinck, Michael Gericke, Juliette Mammei
+- University of Regina: Garth Huber, Zisis Papandreou
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eic-canada/eic-canada.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For information on joining or contributing, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
