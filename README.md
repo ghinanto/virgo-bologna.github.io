@@ -1,4 +1,4 @@
-## EIC Canada Collaboration
+# EIC Canada Collaboration
 
 The Electron Ion Collider (EIC) is a major new collider facility scheduled to be built on Long Island, New York, by the US Department of Energy in the current decade. At the EIC, polarized electrons will collide with polarized protons, polarized light ions, and heavy nuclei at luminosities far beyond what is currently available. The facility will answer several fundamental questions central to completing an understanding of atoms and integral to the agenda of nuclear physics today.
 
