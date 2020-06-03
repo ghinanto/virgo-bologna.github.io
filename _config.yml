@@ -9,4 +9,4 @@ plugins:
   - jekyll-readme-index
   - jekyll-titles-from-headings
 
-theme: jekyll-theme-minimal
+theme: minima
