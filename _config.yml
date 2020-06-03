@@ -1,1 +1,12 @@
+title: EIC Canada
+description: Coordinating Canadian Participation in the Electron Ion Collider
+github_username: eic-canada
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
 theme: jekyll-theme-minimal
