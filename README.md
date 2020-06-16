@@ -6,12 +6,6 @@ The EIC project achieved [two milestones](https://www.bnl.gov/newsroom/news.php?
 
 Canadian subatomic physicists have participated intensively in the planning of this new facility and have chartered a multi-institutional EIC Canada Collaboration to coordinate participation. We anticipate that the Canadian participation in the first new North American collider in this century will become similar in scope as, e.g., the Canadian participation in the Belle II experiment.
 
-## Membership
-
-- Mount Allison University: Dave Hornidge
-- University of Manitoba: Wouter Deconinck, Michael Gericke, Juliette Mammei
-- University of Regina: Garth Huber, Zisis Papandreou
-
 ## Contact
 
 For information on joining or contributing, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
