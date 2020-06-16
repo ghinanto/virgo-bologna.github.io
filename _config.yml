@@ -10,7 +10,6 @@ plugins:
   - jekyll-titles-from-headings
 
 header_pages: 
- - README.md
  - Members.md
 
 readme_index:
