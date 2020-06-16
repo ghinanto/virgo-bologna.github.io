@@ -9,6 +9,9 @@ plugins:
   - jekyll-readme-index
   - jekyll-titles-from-headings
 
+header_pages: 
+ - Members.md
+
 readme_index:
   enabled:          true
   remove_originals: true
