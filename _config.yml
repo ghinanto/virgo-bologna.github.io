@@ -10,6 +10,7 @@ plugins:
   - jekyll-titles-from-headings
 
 header_pages: 
+ - Management.md
  - Members.md
 
 readme_index:
