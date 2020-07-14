@@ -11,6 +11,8 @@
 - The Spokesperson and the Deputy Spokesperson shall not have the same institutional affiliation.
 - No more than two elected officers shall have the same institutional affiliation.
 
+![Org Chart](images/EIC-Canada%20Org%20Chart.png)
+
 ## General Meetings
 
 General meetings are held at least once per year. General meetings are advisory to the board.
