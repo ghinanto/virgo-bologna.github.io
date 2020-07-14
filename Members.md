@@ -1,4 +1,4 @@
-## Current Membership
+## Members
 - Investigators (institutional representative italicised):
   - [Mount Allison University](http://mta.ca): *Dave Hornidge*
   - [University of Manitoba](http://umanitoba.ca): *Wouter Deconinck*, Michael Gericke, *Juliette Mammei*
