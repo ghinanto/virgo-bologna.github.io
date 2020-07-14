@@ -11,6 +11,7 @@ plugins:
 
 header_pages: 
  - Management.md
+ - Leadership.md
  - Members.md
 
 readme_index:
