@@ -1,4 +1,4 @@
-## Current leadership
+## Leadership
 
 - Spokesperson: Wouter Deconinck, Wouter.Deconinck@umanitoba.ca, University of Manitoba.
 
