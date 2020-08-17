@@ -13,6 +13,7 @@ header_pages:
  - Management.md
  - Leadership.md
  - Members.md
+ - Documents.md
 
 readme_index:
   enabled:          true
