@@ -10,6 +10,10 @@ Canadian subatomic physicists have participated intensively in the planning of t
 
 As part of the Canadian Subatomic Physics Long Range Planning process, the EIC Canada Collaboration has prepared a [briefing document](assets/docs/2020_SAP_LRP_EIC_Canada_Brief.pdf).
 
+## Code of Conduct
+
+Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](CodeOfConduct.md).
+
 ## Contact
 
 For information on joining or contributing, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
