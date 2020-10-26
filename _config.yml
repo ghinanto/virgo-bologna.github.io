@@ -10,11 +10,11 @@ plugins:
   - jekyll-titles-from-headings
 
 header_pages: 
- - Management.md
- - Leadership.md
- - Members.md
- - CodeOfConduct.md
- - Documents.md
+ - management.md
+ - leadership.md
+ - members.md
+ - codeofconduct.md
+ - documents.md
 
 readme_index:
   enabled:          true

@@ -12,7 +12,7 @@ As part of the Canadian Subatomic Physics Long Range Planning process, the EIC C
 
 ## Code of Conduct
 
-Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](CodeOfConduct.md).
+Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md).
 
 ## Contact
 
