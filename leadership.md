@@ -4,4 +4,4 @@
 
 - Deputy Spokesperson: Garth Huber, University of Regina.
 
-Historical leadership: [2020](Leadership-2020.md)
+Historical leadership: [2020](leadership-2020.md)
