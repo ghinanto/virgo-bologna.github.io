@@ -12,8 +12,8 @@ As part of the Canadian Subatomic Physics Long Range Planning process, the EIC C
 
 ## Code of Conduct
 
-Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md).
+Our collaboration is committed to maintaining an inclusive and equitable working environment for all members. Our commitments towards equity, diversity, and inclusions are listed in our [Code of Conduct](codeofconduct.md). The collaboration ombudspersons in the [leadership team](leadership.md) can be contacted with concerns.
 
 ## Contact
 
-For information on joining or contributing, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
+For information on joining the EIC Canada collobration or contributing as an associate member, please contact [Wouter Deconinck](mailto:wouter.deconinck@umanitoba.ca).
