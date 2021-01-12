@@ -1,6 +1,6 @@
 ## Undergraduate Summer Research at the Electron Ion Collider
 
-The Electron Ion Collider Canada collaboration (EIC Canada, http://eic-canada.org) is inviting applications from undergraduate students interested in experimental subatomic physics research projects at the Electron Ion Collider.
+The Electron Ion Collider Canada collaboration (EIC Canada) is inviting applications from undergraduate students interested in experimental subatomic physics research projects at the Electron Ion Collider.
 
 The Electron Ion Collider (EIC) is a major new collider facility scheduled to be built on Long Island, New York, by the US Department of Energy, with the first collisions anticipated by 2030. At the EIC, polarized electrons will collide with polarized protons, polarized light ions, and heavy nuclei at luminosities far beyond what is currently available. As a summer undergraduate student involved in the early stages of this project, you will be well positioned to impact the design of this world class facility and to continue in key roles of its operation after the completion of your degree.
 
