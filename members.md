@@ -17,8 +17,10 @@
   - Varun Neelamana (U. Regina, eta-Delta++ beam asymmetry, GlueX)
   - Karthik Suresh (U. Regina, b1 meson PWA, GlueX)
   - Ali Usman  (U. Regina, low Q^2 pi+ and K+ form factors, JLab)
+- Undergraduate students
+  - Alicia Postuma (Mount Allison U.)
 
-Historical membership (and institutional representatives): [2020](members-2020.md)
+Historical membership (and institutional representatives): [2021](members-2021.md) [2020](members-2020.md)
 
 ## Interested in joining?
 - Investigators are NSERC-grant eligible PIs on an active EIC Canada grant, proposal or notice of intent, and those EIC authors or qualifying EIC authors.
