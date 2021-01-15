@@ -5,6 +5,7 @@
   - [University of Regina](http://uregina.ca): [Garth Huber](mailto:huberg@uregina.ca)&ast;, [Zisis Papandreou](mailto:zisis@uregina.ca)&ast;
 - Postdoctoral researchers (primary project in parenthesis):
   - Stephen Kay (U. Regina, EIC)
+  - Phil Martel (U. Mainz/Mount Allison U., EIC)
   - Jon Zarling (U. Regina, GlueX)
 - Graduate students (primary project in parenthesis):
   - Ahmed Foda (U. Regina, omega pi cross sections, GlueX)
