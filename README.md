@@ -10,7 +10,7 @@ Canadian subatomic physicists have participated intensively in the planning of t
 
 As part of the Canadian Subatomic Physics Long Range Planning process, the EIC Canada Collaboration has prepared a [briefing document](assets/docs/2020_SAP_LRP_EIC_Canada_Brief.pdf) that outlines our plans for participation in the EIC project.
 
-## Interest in Research at the EIC?
+## Interested in Research at the EIC?
 
 We are currently accepting applications for both [graduate students](graduate-students/index.md) and [undergraduate summer research students](undergraduate-students/index.md) interested in research at the EIC.
 
