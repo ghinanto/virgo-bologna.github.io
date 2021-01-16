@@ -12,7 +12,7 @@ As part of the Canadian Subatomic Physics Long Range Planning process, the EIC C
 
 ## Interested in Research at the EIC?
 
-We are currently accepting applications for both [graduate students](graduate-students/index.md) and [undergraduate summer research students](undergraduate-students/index.md) interested in research at the EIC.
+We are currently accepting applications for both [graduate students](graduate-research/index.md) and [undergraduate summer research students](undergraduate-research/index.md) interested in research at the EIC.
 
 ## Code of Conduct
 
