@@ -26,4 +26,6 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+google_analytics: G-9HZLR8YNTC
+
 theme: minima
