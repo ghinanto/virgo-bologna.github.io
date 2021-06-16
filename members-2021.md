@@ -1,8 +1,8 @@
 ## Membership April 2021--March 2022
-- Investigators (institutional representative with astrisk):
-  - [Mount Allison University](http://mta.ca): [Dave Hornidge](mailto:dhornidge@mta.ca)&ast;
-  - [University of Manitoba](http://umanitoba.ca): [Wouter Deconinck](mailto:Wouter.Deconinck@umanitoba.ca)&ast;, [Michael Gericke](mailto:mgericke@physics.umanitoba.ca), [Juliette Mammei](mailto:jmammei@physics.umanitoba.ca)&ast;
-  - [University of Regina](http://uregina.ca): [Garth Huber](mailto:huberg@uregina.ca)&ast;, [Zisis Papandreou](mailto:zisis@uregina.ca)&ast;
+- Investigators (institutional representative with asterisk):
+  - [Mount Allison University](http://mta.ca): [Dave Hornidge](mailto:dhornidge@mta.ca)\*
+  - [University of Manitoba](http://umanitoba.ca): [Wouter Deconinck](mailto:Wouter.Deconinck@umanitoba.ca)\*, [Michael Gericke](mailto:mgericke@physics.umanitoba.ca), [Juliette Mammei](mailto:jmammei@physics.umanitoba.ca)\*
+  - [University of Regina](http://uregina.ca): [Garth Huber](mailto:huberg@uregina.ca)\*, [Zisis Papandreou](mailto:zisis@uregina.ca)\*
 - Postdoctoral researchers (primary project in parenthesis):
   - Stephen Kay (U. Regina, EIC)
   - Jon Zarling (U. Regina, GlueX)
