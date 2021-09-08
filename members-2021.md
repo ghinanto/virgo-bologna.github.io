@@ -17,3 +17,6 @@
   - Varun Neelamana (U. Regina, eta-Delta++ beam asymmetry, GlueX)
   - Karthik Suresh (U. Regina, b1 meson PWA, GlueX)
   - Ali Usman  (U. Regina, low Q^2 pi+ and K+ form factors, JLab)
+Undergraduate students:
+  - Maggie Kerr (Mount Allison U.)
+  - Alicia Postuma (Mount Allison U.)
