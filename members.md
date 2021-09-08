@@ -19,7 +19,7 @@
   - Karthik Suresh (U. Regina, b1 meson PWA, GlueX)
   - Ali Usman  (U. Regina, low Q^2 pi+ and K+ form factors, JLab)
 - Undergraduate students
-  - Alicia Postuma (Mount Allison U.)
+  - Maggie Kerr (Mount Allison U.)
 
 Historical membership (and institutional representatives): [2021](members-2021.md) [2020](members-2020.md)
 
