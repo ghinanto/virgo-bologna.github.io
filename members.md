@@ -1,11 +1,12 @@
 ## Members
 - Investigators (institutional representative with asterisk):
   - [Mount Allison University](http://mta.ca): [Dave Hornidge](mailto:dhornidge@mta.ca)\*
-  - [University of Manitoba](http://umanitoba.ca): [Wouter Deconinck](mailto:Wouter.Deconinck@umanitoba.ca)\*, [Michael Gericke](mailto:mgericke@physics.umanitoba.ca), [Juliette Mammei](mailto:jmammei@physics.umanitoba.ca)\*
+  - [University of Manitoba](http://umanitoba.ca): [Wouter Deconinck](mailto:Wouter.Deconinck@umanitoba.ca)\*, [Michael Gericke](mailto:mgericke@physics.umanitoba.ca), [Savino Longo](mailto:Savino.Longo@umanitoba.ca), [Juliette Mammei](mailto:jmammei@physics.umanitoba.ca)\*
   - [University of Regina](http://uregina.ca): [Garth Huber](mailto:huberg@uregina.ca)\*, [Zisis Papandreou](mailto:zisis@uregina.ca)\*
 - Postdoctoral researchers (primary project in parenthesis):
   - Stephen Kay (U. Regina, EIC)
   - Phil Martel (U. Mainz/Mount Allison U., EIC)
+  - Sakib Rahman (U. Manitoba, MOLLER/EIC)
   - Jon Zarling (U. Regina, GlueX)
 - Graduate students (primary project in parenthesis):
   - Ahmed Foda (U. Regina, omega pi cross sections, GlueX)
@@ -16,8 +17,13 @@
   - Azizah Mahmoud (U. Regina, machine learning for FCAL-II, Jefferson Lab Eta Factory)
   - Jabia Moazam (U. Manitoba, neutron life time, NIST)
   - Varun Neelamana (U. Regina, eta-Delta++ beam asymmetry, GlueX)
+  - Stjepan Oresic (U. Regina, calorimetry and spectroscopy, EIC)
+  - Love Preet (U. Regina, deeply virtual meson production, EIC)
+  - Bardh Quni (U. Manitoba, leptoquark, EIC)
+  - Shefali (U. Manitoba, Compton polarimetry, MOLLER)
   - Karthik Suresh (U. Regina, b1 meson PWA, GlueX)
   - Ali Usman  (U. Regina, low Q^2 pi+ and K+ form factors, JLab)
+  - Akshaya Vijay (U. Manitoba, Compton polarimetry, EIC)
 - Undergraduate students
   - Maggie Kerr (Mount Allison U.)
 
