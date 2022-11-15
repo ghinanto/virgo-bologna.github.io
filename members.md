@@ -9,7 +9,6 @@
   - Sakib Rahman (U. Manitoba, MOLLER/EIC)
   - Jon Zarling (U. Regina, GlueX)
 - Graduate students (primary project in parenthesis):
-  - Ahmed Foda (U. Regina, omega pi cross sections, GlueX)
   - Fatemeh Gorgannejad (U. Manitoba, pion detectors, MOLLER)
   - Nathan Heinrich (U. Regina, high Q^2 pion form factors, JLab)
   - Muhammad Junaid (U. Regina, high Q^2 pion form factors, JLab)
